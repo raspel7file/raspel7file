@@ -1,7 +1,7 @@
 # Привет, меня зовут Михаил Пожидаев, я аналитик данных
 
 ## Стек инструментов
-<ul><li>Python (pandas, Numpy, SciPy, matplotlib, seaborn, pingouin)</li>
+<ul><li><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="25"> : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934" height="25">, Numpy, SciPy, matplotlib, seaborn, pingouin)</li>
 <li>SQL (Clickhouse, Redash, Tabix, PostgreSQL)</li>
 <li>Git</li>
 <li>Tableau</li>
