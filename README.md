@@ -13,6 +13,8 @@
 <li>Airflow</li></ul>
 
 ## Контакты
+телефон: +79937517047  
+телеграм: [@mikhailpozhidaev24](https://t.me/mikhailpozhidaev24)
 
 ## Проекты
 Методика статистической оценки удачи в игре "Blood Bowl"  
