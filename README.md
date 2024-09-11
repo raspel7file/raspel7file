@@ -6,11 +6,53 @@
 Спокойный, внимательный и упорный - при анализе данных это помогает. 
 
 ## Стек инструментов
-<ul><li>Python (pandas, Numpy, SciPy, matplotlib, seaborn, pingouin)</li>
-<li>SQL (Clickhouse, Redash, Tabix, PostgreSQL)</li>
-<li>Git</li>
-<li>Tableau</li>
-<li>Airflow</li></ul>
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" height="40"/>  
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy"  height="40"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/800px-SCIPY_2.svg.png" title="SciPy" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" height="40"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" height="40"/>
+      <img src="https://pingouin-stats.org/build/html/_static/pingouin.svg" title="pingouin" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" title="SQL" height="40"/>  
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" title="Clickhouse" height="40"/>
+      <img src="https://redash.io/assets/images/elements/redash-logo.svg" title="Redash"  height="40"/> 
+      <img src="https://tabix.io/img/tabixLogo-IconText-DB7315.png?page=index" title="Tabix" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" height="40"/>  
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://banner2.cleanpng.com/20181112/vco/kisspng-tableau-software-computer-software-business-intell-best-tableau-courses-tutorials-amp-books-2-18-5be9d6e3bb4ec2.2124175015420515557672.jpg" title="Tableau" height="40"/>  
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" height="40"/>  
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 
 ## Проекты
 Методика статистической оценки удачи в игре "Blood Bowl"  
