@@ -74,3 +74,6 @@ ___
 ___
 Анализ результатов A/B-теста  
 [ссылка на репозиторий](https://github.com/raspel7file/AB_test)
+___
+Анализ лайков под постами в соцсети  
+[ссылка на репозиторий](https://github.com/raspel7file/likes_analysis)
