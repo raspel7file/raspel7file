@@ -63,6 +63,10 @@ Statistical method of luck assessment in "Blood Bowl"
 Publication in English: [Blood Bowl Luck Assessment Method](https://orca-cola.com/index.php?/topic/41907-blood-bowl-luck-assessment-method/)  
 [link to project](https://github.com/raspel7file/bb_luck)
 ___
+Blood Bowl 2 Official Ladder results predictor (ML project)  
+[link to project](https://github.com/raspel7file/bb_ml_predictor)  
+[link to working product](https://aw-demo.ru/public/dashboard/DCrmUvVip-0IzdocOJbLoItBTiGog61j)
+___
 RFM-сегментация пользователей интернет-магазина  
 [ссылка на репозиторий](https://github.com/raspel7file/RFM_segmentation)
 ___
