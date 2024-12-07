@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-## Проекты
+## Проекты / Projects
 Методика статистической оценки удачи в игре "Blood Bowl"  
 Публикация на русском: [Методика оценки удачи в "Blood Bowl"](https://rubbl.ru/index.php?topic=49916.0)  
 [ссылка на репозиторий](https://github.com/raspel7file/bb_luck)
